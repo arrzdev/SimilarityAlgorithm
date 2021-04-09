@@ -1,5 +1,10 @@
 import unidecode
 
+'''
+Algorithm made by ARRZ.DEV
+Thanks <3
+'''
+
 def similarity_algo(string1, string2): #returns a probability
     if not string1 or not string2:
         return 'missing parameter'
