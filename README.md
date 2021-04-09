@@ -7,6 +7,7 @@ I made this algorithm for my project "KahootBot"  This algorithm proved to be th
 
 ## Penalty
 In the algo there is a else statement with a penalty comment... there you can add a penalty for each wrong letter (in case you need that)
+
 Penalty Example: ( score -= score_per_letter/2 )
 
 #### This is the 3rd and last version of my algorithm, I hope this can be usefull :))
